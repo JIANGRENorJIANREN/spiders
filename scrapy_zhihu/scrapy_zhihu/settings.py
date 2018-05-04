@@ -14,13 +14,15 @@ BOT_NAME = 'scrapy_zhihu'
 SPIDER_MODULES = ['scrapy_zhihu.spiders']
 NEWSPIDER_MODULE = 'scrapy_zhihu.spiders'
 
+MONGO_URI = 'localhost'
+MONGO_DB = 'ZhihuUserDB'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'scrapy_zhihu (+http://www.yourdomain.com)'
-USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36'
+USER_AGENT = 'Mozilla/4.0 (compatible; ICS 1.2.105)'
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
@@ -65,9 +67,10 @@ COOKIES_ENABLED = True
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'scrapy_zhihu.pipelines.ScrapyZhihuPipeline': 300,
-#}
+ITEM_PIPELINES = {
+    'scrapy_zhihu.pipelines.ScrapyZhihuPipeline': 300,
+    'scrapy_zhihu.pipelines.MongoPipeline': 400,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
