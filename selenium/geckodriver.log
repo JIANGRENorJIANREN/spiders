@@ -1,0 +1,465 @@
+1530316049520	geckodriver	INFO	geckodriver 0.19.1
+1530316049524	geckodriver	INFO	Listening on 127.0.0.1:36584
+1530316050655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.88vAJMfzajQn"
+1530316051218	Marionette	INFO	Enabled via --marionette
+1530316052618	Marionette	INFO	Listening on port 35438
+1530316052678	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530316096780	geckodriver	INFO	geckodriver 0.19.1
+1530316096783	geckodriver	INFO	Listening on 127.0.0.1:46375
+1530316097913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UeJ10N5wGxn5"
+1530316098470	Marionette	INFO	Enabled via --marionette
+1530316099700	Marionette	INFO	Listening on port 45866
+1530316099728	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1530316215660	geckodriver	INFO	geckodriver 0.19.1
+1530316215663	geckodriver	INFO	Listening on 127.0.0.1:58022
+1530316216768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qxE17D7IQF13"
+1530316217304	Marionette	INFO	Enabled via --marionette
+1530316218560	Marionette	INFO	Listening on port 36284
+1530316218598	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530316256597	geckodriver	INFO	geckodriver 0.19.1
+1530316256600	geckodriver	INFO	Listening on 127.0.0.1:49337
+1530316257724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.23XAxLeb1xUy"
+1530316258300	Marionette	INFO	Enabled via --marionette
+1530316259518	Marionette	INFO	Listening on port 45381
+1530316259562	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x510027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530316752924	geckodriver	INFO	geckodriver 0.19.1
+1530316752927	geckodriver	INFO	Listening on 127.0.0.1:40128
+1530316754041	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mzlDaIt10yhU"
+1530316754576	Marionette	INFO	Enabled via --marionette
+1530316755856	Marionette	INFO	Listening on port 38242
+1530316755962	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+1530319272601	geckodriver	INFO	geckodriver 0.19.1
+1530319272604	geckodriver	INFO	Listening on 127.0.0.1:57738
+1530319273729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LvafKMwCx0Is"
+1530319274304	Marionette	INFO	Enabled via --marionette
+1530319275546	Marionette	INFO	Listening on port 44741
+1530319275646	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+JavaScript error: https://g.alicdn.com/kissy/k/1.4.4/??io-min.js,cookie-min.js, line 10: NS_ERROR_NOT_INITIALIZED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530319460452	geckodriver	INFO	geckodriver 0.19.1
+1530319460455	geckodriver	INFO	Listening on 127.0.0.1:33145
+1530319461575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.geQbX1sxA1q6"
+1530319462098	Marionette	INFO	Enabled via --marionette
+1530319463352	Marionette	INFO	Listening on port 36297
+1530319463386	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+1530319525718	geckodriver	INFO	geckodriver 0.19.1
+1530319525721	geckodriver	INFO	Listening on 127.0.0.1:47738
+1530319526839	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uWRQomPwtvCh"
+1530319527386	Marionette	INFO	Enabled via --marionette
+1530319528626	Marionette	INFO	Listening on port 37692
+1530319528648	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+1530319631875	geckodriver	INFO	geckodriver 0.19.1
+1530319631878	geckodriver	INFO	Listening on 127.0.0.1:41502
+1530319632996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hfLlnTCwbU4l"
+1530319633528	Marionette	INFO	Enabled via --marionette
+1530319634782	Marionette	INFO	Listening on port 34018
+1530319634806	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+1530320019103	geckodriver	INFO	geckodriver 0.19.1
+1530320019106	geckodriver	INFO	Listening on 127.0.0.1:36261
+1530320019198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lQV8eivyT0ak"
+1530320019768	Marionette	INFO	Enabled via --marionette
+1530320021116	Marionette	INFO	Listening on port 41567
+1530320021210	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+JavaScript warning: https://a.alipayobjects.com/??jquery/jquery/1.9.1/jquery.js,arale/validator/0.9.5/validator.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1530320342074	geckodriver	INFO	geckodriver 0.19.1
+1530320342077	geckodriver	INFO	Listening on 127.0.0.1:53974
+1530320343194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OyYyvK6MM6PL"
+1530320343738	Marionette	INFO	Enabled via --marionette
+1530320345074	Marionette	INFO	Listening on port 40922
+1530320345104	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+JavaScript error: chrome://marionette/content/event.js, line 31: TypeError: can't access dead object
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530320487170	geckodriver	INFO	geckodriver 0.19.1
+1530320487173	geckodriver	INFO	Listening on 127.0.0.1:54720
+1530320488260	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4rHaXeNxgcZq"
+1530320488870	Marionette	INFO	Enabled via --marionette
+1530320490090	Marionette	INFO	Listening on port 45542
+1530320490182	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530320529120	geckodriver	INFO	geckodriver 0.19.1
+1530320529123	geckodriver	INFO	Listening on 127.0.0.1:48954
+1530320530208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NYAaaDb1BZao"
+1530320530782	Marionette	INFO	Enabled via --marionette
+1530320532088	Marionette	INFO	Listening on port 32831
+1530320532132	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+1530321326904	geckodriver	INFO	geckodriver 0.19.1
+1530321326907	geckodriver	INFO	Listening on 127.0.0.1:34623
+1530321328027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NGQBt2lD26tZ"
+1530321328592	Marionette	INFO	Enabled via --marionette
+1530321329896	Marionette	INFO	Listening on port 36412
+1530321329962	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+1530321430315	geckodriver	INFO	geckodriver 0.19.1
+1530321430318	geckodriver	INFO	Listening on 127.0.0.1:38274
+1530321431425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.V4rVdyBVPYoH"
+1530321432044	Marionette	INFO	Enabled via --marionette
+1530321433302	Marionette	INFO	Listening on port 32831
+1530321433336	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+1530322171943	geckodriver	INFO	geckodriver 0.19.1
+1530322171947	geckodriver	INFO	Listening on 127.0.0.1:44939
+1530322173050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4I9xBYfR3RsO"
+1530322173594	Marionette	INFO	Enabled via --marionette
+1530322174888	Marionette	INFO	Listening on port 37654
+1530322174964	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530322206378	geckodriver	INFO	geckodriver 0.19.1
+1530322206381	geckodriver	INFO	Listening on 127.0.0.1:41349
+1530322207498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tQx3Dy1dkTKD"
+1530322208086	Marionette	INFO	Enabled via --marionette
+1530322209314	Marionette	INFO	Listening on port 40778
+1530322209412	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530322243460	geckodriver	INFO	geckodriver 0.19.1
+1530322243464	geckodriver	INFO	Listening on 127.0.0.1:36712
+1530322244569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.COOyvQ4xYoct"
+1530322245154	Marionette	INFO	Enabled via --marionette
+1530322246460	Marionette	INFO	Listening on port 38041
+1530322246484	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530322295376	geckodriver	INFO	geckodriver 0.19.1
+1530322295379	geckodriver	INFO	Listening on 127.0.0.1:51195
+1530322296471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1UUwEEMckLwc"
+1530322296988	Marionette	INFO	Enabled via --marionette
+1530322298252	Marionette	INFO	Listening on port 42636
+1530322298298	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+[Parent 13477, Gecko_IOThread] WARNING: pipe error (38): 连接被对方重设: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530323045878	geckodriver	INFO	geckodriver 0.19.1
+1530323045884	geckodriver	INFO	Listening on 127.0.0.1:60472
+1530323047018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FikKrqrwmvpY"
+1530323047588	Marionette	INFO	Enabled via --marionette
+1530323048852	Marionette	INFO	Listening on port 41464
+1530323048934	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1530323206515	geckodriver	INFO	geckodriver 0.19.1
+1530323206518	geckodriver	INFO	Listening on 127.0.0.1:50393
+1530323206603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.d98p3t6Ub0nh"
+1530323207128	Marionette	INFO	Enabled via --marionette
+1530323208360	Marionette	INFO	Listening on port 46459
+1530323208442	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1530324830550	geckodriver	INFO	geckodriver 0.19.1
+1530324830554	geckodriver	INFO	Listening on 127.0.0.1:46767
+1530324831682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.257uaWjc205W"
+1530324832268	Marionette	INFO	Enabled via --marionette
+1530324833788	Marionette	INFO	Listening on port 37870
+1530324833804	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 19181, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 19126, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530325303743	geckodriver	INFO	geckodriver 0.19.1
+1530325303746	geckodriver	INFO	Listening on 127.0.0.1:32781
+1530325304842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MVPvG2u4ahHG"
+1530325305394	Marionette	INFO	Enabled via --marionette
+1530325306652	Marionette	INFO	Listening on port 39225
+1530325306756	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1530325404550	geckodriver	INFO	geckodriver 0.19.1
+1530325404553	geckodriver	INFO	Listening on 127.0.0.1:37379
+1530325405682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lvmrY0aIb77N"
+1530325406236	Marionette	INFO	Enabled via --marionette
+1530325407534	Marionette	INFO	Listening on port 34979
+1530325407606	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530325484341	geckodriver	INFO	geckodriver 0.19.1
+1530325484345	geckodriver	INFO	Listening on 127.0.0.1:57778
+1530325485431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GfFzSQVl7Yos"
+1530325486060	Marionette	INFO	Enabled via --marionette
+1530325487316	Marionette	INFO	Listening on port 36045
+1530325487346	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530325545869	geckodriver	INFO	geckodriver 0.19.1
+1530325545872	geckodriver	INFO	Listening on 127.0.0.1:43183
+1530325546980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.j5KDlfzl7nHm"
+1530325547496	Marionette	INFO	Enabled via --marionette
+1530325548712	Marionette	INFO	Listening on port 35002
+1530325548792	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+1530326007021	geckodriver	INFO	geckodriver 0.19.1
+1530326007024	geckodriver	INFO	Listening on 127.0.0.1:44094
+1530326008156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3xfxbS6Qz8bJ"
+1530326008848	Marionette	INFO	Enabled via --marionette
+1530326010378	Marionette	INFO	Listening on port 34109
+1530326010474	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530326043208	geckodriver	INFO	geckodriver 0.19.1
+1530326043211	geckodriver	INFO	Listening on 127.0.0.1:52011
+1530326044307	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UnlPzVTUOMxM"
+1530326044950	Marionette	INFO	Enabled via --marionette
+1530326046216	Marionette	INFO	Listening on port 42116
+1530326046222	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/sd/ncpc/nc.js?t=2018063010, line 5: Error: Permission denied to access property "filename"
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+1530326081348	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+1530328176052	geckodriver	INFO	geckodriver 0.19.1
+1530328176055	geckodriver	INFO	Listening on 127.0.0.1:51070
+1530328177169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2uXMHreFVlbr"
+1530328177710	Marionette	INFO	Enabled via --marionette
+1530328179086	Marionette	INFO	Listening on port 44486
+1530328179190	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+[Child 22187, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530328446764	geckodriver	INFO	geckodriver 0.19.1
+1530328446767	geckodriver	INFO	Listening on 127.0.0.1:35834
+1530328447892	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MixeOAs8TfDh"
+1530328448410	Marionette	INFO	Enabled via --marionette
+1530328449742	Marionette	INFO	Listening on port 34297
+1530328449802	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3981: TypeError: this.tabs is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530337342149	geckodriver	INFO	geckodriver 0.19.1
+1530337342153	geckodriver	INFO	Listening on 127.0.0.1:42917
+1530337343261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oM7IA4PdYEI0"
+1530337343786	Marionette	INFO	Enabled via --marionette
+1530337345026	Marionette	INFO	Listening on port 42550
+1530337345074	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+JavaScript error: https://g.alicdn.com/secdev/sufei_data/3.5.3/index.js, line 1: TypeError: G is null
+1530340594445	geckodriver	INFO	geckodriver 0.19.1
+1530340594448	geckodriver	INFO	Listening on 127.0.0.1:55834
+1530340595578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZTFwCqFXlwvT"
+1530340596100	Marionette	INFO	Enabled via --marionette
+1530340597324	Marionette	INFO	Listening on port 34445
+1530340597394	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530343461239	geckodriver	INFO	geckodriver 0.19.1
+1530343461242	geckodriver	INFO	Listening on 127.0.0.1:56407
+1530343462368	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dEdawjnsmK3R"
+1530343462892	Marionette	INFO	Enabled via --marionette
+1530343464114	Marionette	INFO	Listening on port 36300
+1530343464186	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+JavaScript error: https://g.alicdn.com/sd/ncpc/nc.js?t=2018063015, line 2: TypeError: this.id(...) is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530343524354	geckodriver	INFO	geckodriver 0.19.1
+1530343524357	geckodriver	INFO	Listening on 127.0.0.1:58422
+1530343525488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eofW4WiGicEz"
+1530343526040	Marionette	INFO	Enabled via --marionette
+1530343527252	Marionette	INFO	Listening on port 46876
+1530343527302	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+JavaScript error: https://g.alicdn.com/sd/ncpc/nc.js?t=2018063015, line 2: TypeError: this.id(...) is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530343552959	geckodriver	INFO	geckodriver 0.19.1
+1530343552963	geckodriver	INFO	Listening on 127.0.0.1:60828
+1530343554092	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ab2mWCiUSTlB"
+1530343554652	Marionette	INFO	Enabled via --marionette
+1530343555864	Marionette	INFO	Listening on port 42379
+1530343555906	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1530343626607	geckodriver	INFO	geckodriver 0.19.1
+1530343626610	geckodriver	INFO	Listening on 127.0.0.1:43316
+1530343627738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Amd3Kkm2XnWf"
+1530343628262	Marionette	INFO	Enabled via --marionette
+1530343629482	Marionette	INFO	Listening on port 39150
+1530343629564	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://g.alicdn.com/vip/login/0.5.65/js/login/nlogin.js?t=20151220, line 1: TypeError: b.cfg.elUserName.focus is not a function
